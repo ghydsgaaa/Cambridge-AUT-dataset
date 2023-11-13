@@ -42,4 +42,4 @@ We provide the following models mentioned in our paper:
 
 ### **Gpt 3.5 turbo classfication**
 We apply ChatGPT (gpt-3.5-turbo at temperature 0) to the same task as our models for comparison.
-The prompt used are provided in (link to be added) and results are provided in (link to be added)
+The prompt used are provided in (https://github.com/ghydsgaaa/Cambridge-AUT-dataset/blob/main/gpt3.5%20turbo/prompts.py) and results are provided in (link to be added)
