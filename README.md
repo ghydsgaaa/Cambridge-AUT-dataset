@@ -19,7 +19,7 @@ classify between creative and non-creative responses even with unbal-
 anced data, and can generalise well to out-of-domain unseen prompts
 
 ### **Cambridge AUT dataset**
-In order to faciliate future development of auto-evaluation on AUT test, we hereby release our AUT dataset. It is collected by Rebecca Myers, one of our author, as part of a larger project on creativity assessment. The responses arer rated by three raters on their originality, using a Likert scale from 0 to 4, where 0 indicates a not valid or not relevant use, 1 a common use without any originality, 2 an uncommon use with limited originality, and 3 and 4 original uses with moderate and extreme creativity, respectively
+In order to faciliate future development of auto-evaluation on AUT test, we hereby release our AUT dataset. It is collected as part of a larger project on creativity assessment. The responses arer rated by three raters on their originality, using a Likert scale from 0 to 4, where 0 indicates a not valid or not relevant use, 1 a common use without any originality, 2 an uncommon use with limited originality, and 3 and 4 original uses with moderate and extreme creativity, respectively
 
 
 | cambridge AUT dataset     |    prompt |
